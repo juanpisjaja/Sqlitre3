@@ -5,6 +5,7 @@
 ![image](https://github.com/juanpisjaja/Sqlitre3/blob/main/IMG/insertar.png)
 ## UPDATE :
 >La sentencia UPDATE se utiliza para actualizar 
+
 ![image](https://github.com/juanpisjaja/Sqlitre3/blob/main/IMG/update.png)
 ***
 ## ESTRUCTURA DE LA BASE DE DATOS .SCHEMA :
